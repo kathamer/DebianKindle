@@ -1,6 +1,6 @@
 Hello, Reddit!
 
-##How to install Debian on your Kindle
+## How to install Debian on your Kindle
 
 First you have to jailbreak your Kindle. The jailbreaking process invloves allowing the
 installation of unsigned applications to your Kindle. I used this guide:
