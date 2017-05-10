@@ -11,7 +11,7 @@ Installing a terminal allows you to access the underlying Linux system on your K
 
 Now that you have a terminal, you will be able to install the Debian chroot. 
 Here's where it gets complicated. First, you need to generate a Debian image appropriate for your device. 
-Use `MakeImage.sh` to do this. Run the script on a Linux system to generate the image. If you do not have access to a Linux system, PM me and I will give you a pre-generated one.
+Use `MakeImage.sh` to do this. Run the script on a Linux system to generate the image. If you do not have access to a Linux system, message me and I can provide a pre generated one.
 
 Now, move the `debian.ext3` file on to your Kindle's root directory. You're almost there.
 Next, you need to move the `RunDebian.sh` script and the `UpdateInitScript.sh` script
