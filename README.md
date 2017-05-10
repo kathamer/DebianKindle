@@ -20,7 +20,7 @@ on to your Kindle. Now you can run them. Do this by typing
 `cd ../..` and then `./RunDebian.sh --root` on your Kindle. You are now root on your Kindle!
 
 Then, hit `CTRL-D` on your Kindle until you see `[US]$` or `[US]#` 
-you are now back in your Kindle's terminal. Type `./RunBeforeDebian.sh` on your Kindle to setup mountpoints and install the `debian command/. 
+you are now back in your Kindle's terminal. Type `./RunBeforeDebian.sh` on your Kindle to setup mountpoints and install the `debian` command. 
 Now, you should be able to type `debian` in the Kindle's terminal to access Debian. 
 If you need root access (to install sudo, add users, etc) type `debian --root` to start Debian as root. 
 
