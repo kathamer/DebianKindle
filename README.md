@@ -1,7 +1,7 @@
 Installing Debian on your Kindle
 --------------------------------
 
-# 1. Jailbreaking your Kindle. 
+1. Jailbreaking your Kindle. 
 Jailbreaking your Kindle allows non-Amazon applications to run on your Kindle.
 In order to Jailbreak your device you need a Paperwhite 2 or 3, Kindle Touch 2 or 3, Kindle Voyage or Kindle Oasis. 
 I'm using a Kindle Touch 3.
