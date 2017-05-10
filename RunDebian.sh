@@ -5,7 +5,7 @@ echo "REDDIT EDITION - I have modified the"
 echo "script to be a bit more self contained."
 echo 
 echo "[*] Looking for Debian..."
-if [ -f debian.ext3 ]; then
+if [ -f /mnt/us/debian.ext3 ]; then
     echo "[*] Found Debian image!"
 else
     echo "[!] Could not find Debian image!"
