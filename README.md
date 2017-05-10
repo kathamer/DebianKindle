@@ -26,7 +26,7 @@ Finally, you need to setup Debian (IF YOU HAVE A PREGENERATED IMAGE YOU CAN SKIP
 First, type `debian --root` to enter Debian as root.
 Then, type `cd /deboostrap`.
 Next, type `./deboostrap --second-stage` and let that do it's thing.
-If it fails, hit `CTRL-D` until you see `[US]$` then type `debian` again.
+If it fails, hit `CTRL-D` until you see `[US]$` then type `debian  --root` again.
 Once that completes, type `dpkg --configure -a`.
 Now type `adduser <USERNAME>` replacing `<USERNAME>` with your name.
 Next, type `apt-get install sudo`.
