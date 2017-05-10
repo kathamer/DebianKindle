@@ -10,7 +10,7 @@ echo "[*] Getting root permissions..."
 su
 echo "[*] Making rootfs writeable..."
 mntroot rw
-if [ -a 'RunDebian.sh' ]; then
+if [ -f 'RunDebian.sh' ]; then
     mv RunDebian.sh /bin/debian
     if [ $? -eq 0 ]; then
         echo "[*] Installation succcessful..."
