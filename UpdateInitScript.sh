@@ -1,6 +1,6 @@
+#!/bin/sh
 # This script turns the debian script on your Kindle into a command.
 # After running this, just type 'debian' to run Debian
-#!/bin/sh
 echo "Debian Init Script Installer 0.0.3 by Dylan Hamer"
 echo "REDDIT EDITION - I have modified the" 
 echo "script to be a bit more self contained."
