@@ -1,6 +1,6 @@
 # Installing Debian on your Kindle
 
-Update: I am no longer working on this project. I ended up breaking my Kindle because I'm an idiot. I am still accepting pull requests, but I am unable to test them, so please make sure that your code is stable. Thanks, lovelies!
+## Update: I am no longer working on this project. I ended up breaking my Kindle because I'm an idiot. I am still accepting pull requests, but I am unable to test them, so please make sure that your code is stable. Thanks, lovelies!
 
 1. Jailbreak your Kindle.
 
