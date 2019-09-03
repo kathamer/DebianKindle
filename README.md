@@ -2,7 +2,7 @@
 
 ## Update: I am no longer working on this project. I ended up breaking my Kindle because I'm an idiot. I am still accepting pull requests, but I am unable to test them, so please make sure that your code is stable. Thanks, lovelies!
 
-## Update 2: @kathamer has moved to [Gitlab](https://gitlab.com/dylanhamer). The version of this Repo over there has a incomplete Readme (as of August 2019)
+## Update 2: @kathamer has moved to [Gitlab](https://gitlab.com/kathamer). The version of this Repo over there has a incomplete Readme (as of August 2019)
 
 
 
@@ -47,8 +47,8 @@ Finally, type `echo alias "sudo"="sudo -S"`.
 
 -Enjoy!
 
-Open an issue in the [Issue Tracker](https://github.com/DylanHamer/DebianKindle/issues) if you encounter any issues, or
+Open an issue in the [Issue Tracker](https://github.com/KatHamer/DebianKindle/issues) if you encounter any issues, or
 PM me on Reddit (u/dylanhamer13) if you need help with any of the instructions.
 
 Thanks for the support, 
-Dylan
+Kat
