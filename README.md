@@ -1,9 +1,6 @@
 # Installing Debian on your Kindle
 
-## Update: I am no longer working on this project. I ended up breaking my Kindle because I'm an idiot. I am still accepting pull requests, but I am unable to test them, so please make sure that your code is stable. Thanks, lovelies!
-
-## Update 2: @kathamer has moved to [Gitlab](https://gitlab.com/kathamer). The version of this Repo over there has a incomplete Readme (as of August 2019)
-
+# Update (2020): This project is deprecated. I have no idea if any of the following instructions are still accurate, or if any of the links are still working. I have now moved over to [Gitlab](https://gitlab.com/kathamer).
 
 
 ## Installing Debian on your Kindle
